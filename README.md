@@ -11,7 +11,7 @@ This project received an Excellent grade for its technical execution and data-dr
 - **Video_Game_Sales_Analysis.ipynb**: Main analysis with data cleansing and data visualization
   
 
-## Project Title: Video Game Sales (1980 - 2024) Analysis
+## Project Title: # Video Game Sales (1980 - 2024) Analysis
 
 
 ## Objective: To analyze video game sales from 1980 to 2024, identify key factors influencing sales performance (including platform, genre and region), and provide data-driven sales strategy recommendations for game publishers and developers.
