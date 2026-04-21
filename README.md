@@ -43,24 +43,12 @@ Python(Scikit-learn, Pandas, Matplotlib, Seaborn)
 ## Data Visualization:
 <table style="width: 100%;">
   <tr>
-    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/2680371d-be0e-49df-92c0-90c74c85d005" alt="Chart 1" /></td>
-    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/85f47b42-6504-4acc-9ca3-295dfb59cce9" alt="Chart 2" /></td>
+    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/2680371d-be0e-49df-92c0-90c74c85d005" alt="Global Sales Trend" /></td>
+    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/85f47b42-6504-4acc-9ca3-295dfb59cce9" alt="Platform Comparison" /></td>
   </tr>
   <tr>
-    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/546dfddf-6631-4ac3-a361-7bb7fffdf1a8" alt="Chart 3" /></td>
-    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/5c190bf9-a7f9-4678-8cdc-4ad5b4dc4f05" alt="Chart 4" /></td>
-  </tr>
-  <tr>
-    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/c845906b-975d-40e9-8ea5-2f07a657eb7f" alt="Chart 5" /></td>
-    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/7e0f9a53-2a95-4ecd-bb36-ca687b574bc5" alt="Chart 6" /></td>
-  </tr>
-  <tr>
-    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/a7615a28-0ba8-4a03-a3d9-355dffce7060" alt="Chart 7" /></td>
-    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/eb1b1da0-494a-4395-8be4-bae010f20e27" alt="Chart 8" /></td>
-  </tr>
-  <tr>
-    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/65881f71-312f-41a6-9d31-ce499a66642d" alt="Chart 9" /></td>
-    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/35e8e8b3-bc27-4ea8-afbd-462f50abc6ce" alt="Chart 10" /></td>
+    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/7e0f9a53-2a95-4ecd-bb36-ca687b574bc5" alt="Market Insight A" /></td>
+    <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/eb1b1da0-494a-4395-8be4-bae010f20e27" alt="Market Insight B" /></td>
   </tr>
 </table>
 
