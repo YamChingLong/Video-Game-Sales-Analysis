@@ -11,10 +11,12 @@ This project received an Excellent grade for its technical execution and data-dr
 - **Video_Game_Sales_Analysis.ipynb**: Main analysis with data cleansing and data visualization
   
 
-## Project Title: # Video Game Sales (1980 - 2024) Analysis
+## Project Title: 
+Video Game Sales (1980 - 2024) Analysis
 
 
-## Objective: To analyze video game sales from 1980 to 2024, identify key factors influencing sales performance (including platform, genre and region), and provide data-driven sales strategy recommendations for game publishers and developers.
+## Objective: 
+To analyze video game sales from 1980 to 2024, identify key factors influencing sales performance (including platform, genre and region), and provide data-driven sales strategy recommendations for game publishers and developers.
 
            
 ## Key Findings:
@@ -39,7 +41,7 @@ Python(Scikit-learn, Pandas, Matplotlib, Seaborn)
 
 
 ## Data Visualization:
-<img width="583" height="376" alt="圖片" src="https://github.com/user-attachments/assets/2680371d-be0e-49df-92c0-90c74c85d005" />
+<img width="583" height="376" alt="圖片" src="https://github.com/user-attachments/assets/2680371d-be0e-49df-92c0-90c74c85d005" >
 <img width="580" height="459" alt="圖片" src="https://github.com/user-attachments/assets/85f47b42-6504-4acc-9ca3-295dfb59cce9" />
 <img width="578" height="416" alt="圖片" src="https://github.com/user-attachments/assets/546dfddf-6631-4ac3-a361-7bb7fffdf1a8" />
 <img width="567" height="455" alt="圖片" src="https://github.com/user-attachments/assets/5c190bf9-a7f9-4678-8cdc-4ad5b4dc4f05" />
