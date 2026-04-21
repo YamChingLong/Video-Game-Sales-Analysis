@@ -51,7 +51,7 @@ Python(Scikit-learn, Pandas, Matplotlib, Seaborn)
     <td style="width: 50%;"><img src="https://github.com/user-attachments/assets/eb1b1da0-494a-4395-8be4-bae010f20e27" alt="Market Insight B" /></td>
   </tr>
 </table>
-
+For more comprehensive analysis and detailed visualizations, please refer to the report or the Jupyter Notebook.
 
 
 
